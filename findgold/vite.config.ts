@@ -12,6 +12,6 @@ export default defineConfig({
     // Suppression de la définition incorrecte de process.env
     // Vite utilise import.meta.env au lieu de process.env
   },
-  base: '/findgold11/',
+  base: '/findgold/',
   envPrefix: 'VITE_'
 });
